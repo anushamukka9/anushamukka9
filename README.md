@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Anusha Mukka
 
-<!--
-**anushamukka9/anushamukka9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer at Meta, working on secure software systems: security architecture for large-scale distributed systems.
 
-Here are some ideas to get you started:
+- I build and harden production systems, and research adversarially robust ML and policy-as-code governance
+- I write daily about AI, security, and software engineering at [anushamukka.com](https://anushamukka.com)
+- Peer reviewer across IEEE/ACM journals and conferences; program committee member
+- IEEE Senior Member, Fellow of BCS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Elsewhere
+
+- Website: [anushamukka.com](https://anushamukka.com)
+- LinkedIn: [linkedin.com/in/anushamukka9](https://www.linkedin.com/in/anushamukka9)
+- Google Scholar: [scholar profile](https://scholar.google.com/citations?user=vcRE1y0AAAAJ&hl=en)
+- ORCID: [0009-0007-3887-7907](https://orcid.org/0009-0007-3887-7907)
